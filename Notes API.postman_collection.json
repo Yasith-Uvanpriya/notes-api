@@ -1,0 +1,51 @@
+{
+  "info": {
+    "_postman_id": "4ad338f1-34a9-4b84-92d4-88c26c1874ab",
+    "name": "Notes API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "54525739",
+    "_collection_link": "https://go.postman.co/collection/54525739-4ad338f1-34a9-4b84-92d4-88c26c1874ab?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Request 01",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Request 02",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Request 03",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Request 04",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Request 05",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
